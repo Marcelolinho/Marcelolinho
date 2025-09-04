@@ -32,7 +32,7 @@ Sou um **ex-Data Analyst** apaixonado por **Desenvolvimento Backend com Java** e
 
 ##  Contato
 
-- [LinkedIn]([https://www.linkedin.com/in/marcelo-piluski-pozzobon-a684ab272/])
+- [LinkedIn](https://www.linkedin.com/in/marcelo-piluski-pozzobon-a684ab272/)
 - E-mail: mppozzobon8@gmail.com
 
 ---
