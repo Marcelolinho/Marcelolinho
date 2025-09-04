@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcelo Piluski Pozzobon! 👋
 
-Sou um **ex-Data Analyst** apaixonado por **Desenvolvimento Backend com Java** e **Data Science**. Estou em transição para uma posição como desenvolvedor backend jr, combinando minha experiência prévia com novos aprendizados.
+Sou um **estudante** apaixonado por **Desenvolvimento Backend com Java** e **Data Science**. Estou em transição para uma posição como desenvolvedor backend jr, combinando minha experiência prévia com novos aprendizados.
 
 ##  Tecnologias & Ferramentas
 
