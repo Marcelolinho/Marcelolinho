@@ -17,7 +17,6 @@ Sou um **estudante** apaixonado por **Desenvolvimento Backend com Java** e **Dat
 | [HttpCommunication-Testing](link) | Testes com Spring Boot e RestTemplate            | Java, Spring Boot    |
 | [Java-Studies](link)          | Repositório para estudos contínuos em Java       | Java                 |
 | [library-manager](link)      | Sistema de gerenciamento de biblioteca            | Java                 |
-| [Pratica-Estatistica](link)  | Análises estatísticas em notebooks                | Python, Jupyter      |
 | [Python-Para-Data-Science](link) | Notebooks voltados à ciência de dados             | Python, Jupyter      |
 | [cache_asside_pattern_example](link) | API em arquitetura hexagonal com Redis             | Java, Redis, Spring Boot      |
 
